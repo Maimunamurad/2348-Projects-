@@ -1,3 +1,5 @@
+# MaimunaMurad
+# 2065973
 def strengthen_password(password):
     strengthened_password = ""
 
