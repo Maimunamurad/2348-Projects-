@@ -1,3 +1,5 @@
+# MaimunaMurad
+# 2065973
 def is_palindrome(input_str):
     # Remove spaces from the input string
     input_str = input_str.replace(" ", "")
